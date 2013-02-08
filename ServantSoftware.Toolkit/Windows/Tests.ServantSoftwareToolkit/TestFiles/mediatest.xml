@@ -1,0 +1,313 @@
+﻿<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>This Week in Enterprise Tech (HD)</title>
+    <link>http://twit.tv/twiet</link>
+    <generator>Palala 0.2.0 (for Multi Transcode Internet Go!)</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-ShareAlike - http://creativecommons.org/licenses/by-nc-sa/3.0/</copyright>
+    <managingEditor>leo@twit.tv (Leo Laporte)</managingEditor>
+    <webMaster>leo@twit.tv (Leo Laporte)</webMaster>
+    <ttl>60</ttl>
+    <pubDate>Tue, 17 Jul 2012 03:49:02 -0000</pubDate>
+    <lastBuildDate>Tue, 17 Jul 2012 03:49:02 -0000</lastBuildDate>
+    <category>Technology</category>
+    <image>
+      <url>http://feeds.twit.tv/podcasts/coverart/twiet144video.jpg</url>
+      <title>This Week in Enterprise Tech</title>
+      <link>http://twit.tv/twiet</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <atom:link href="https://feeds.twit.tv/twiet_video_hd.xml" type="application/rss+xml" rel="self" />
+    <itunes:author>TWiT</itunes:author>
+    <itunes:subtitle>This Week in Enterprise Tech explores the complex, cutting edge world of enterprise technology. Hosted by Father Robert Ballecer, aka Friar Tech, TWiET features IT professionals explaining the ins and outs of enterprise solutions.</itunes:subtitle>
+    <itunes:summary>This Week in Enterprise Tech explores the complex, cutting edge world of enterprise technology. Hosted by Father Robert Ballecer, aka Friar Tech, TWiET features IT professionals explaining the ins and outs of enterprise solutions.</itunes:summary>
+    <itunes:keywords>Robert Ballecer, Enterprise, Friar Tech, Technology, Leo Laporte, TWiT</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Leo Laporte</itunes:name>
+      <itunes:email>leo@leoville.com</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:image href="http://feeds.twit.tv/podcasts/coverart/twiet600video.jpg" />
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+      <itunes:category text="Gadgets" />
+    </itunes:category>
+    <description><![CDATA[This Week in Enterprise Tech explores the complex, cutting edge world of enterprise technology. Hosted by Father Robert Ballecer, aka Friar Tech, TWiET features IT professionals explaining the ins and outs of enterprise solutions.]]></description>
+    <item>
+      <title>This Week in Enterprise Tech 28: Office 365 is Cool</title>
+      <description><![CDATA[<p><img src="http://feeds.twit.tv/coverart/twiet144videohd.jpg" align=right hspace=20 vspace=20 border=0 title="This Week in Enterprise Tech"/></p><p><b>Hosts</b>: <a href="http://twitter.com/padresj">Fr. Robert Ballecer</a>, <a href="http://thinlinx.com/>Brian Chee</a>, and <a href="http://www.enterpriseefficiency.com/">Curtis Franklin</a>.</p><p>China loves UPnP, it's not the post PC world, Microsoft has a messaging problem, and more.</p><p><b>Guest</b>: <a href="http://www.infoworld.com/author-bios/oliver-rist">Oliver Rist</a>, and Lou Maresca.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twiet">twit.tv/twiet</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/This_Week_in_Enterprise_Tech_28">the wiki page for this episode</a>.</p><p>Thanks to <a href="http://cachefly.com">Cachefly</a> for the bandwidth for this show.</p><p><b>Running time:</b>: 1:10:38</p>]]></description>
+      <author>leo@leoville.com (Leo Laporte)</author>
+      <pubDate>Tue, 05 Feb 2013 05:19:01 -0000</pubDate>
+      <category>Gadgets</category>
+      <category>Tech News</category>
+      <comments>http://twit.tv/twiet/28</comments>
+      <guid isPermaLink="false">f48d240a-8f82-400b-b1e1-32ea968c32ad</guid>
+      <itunes:author>TWiT</itunes:author>
+      <itunes:subtitle>China loves UPnP, it's not the post PC world, Microsoft has a messaging problem, and more. </itunes:subtitle>
+      <itunes:summary>
+        China loves UPnP, it's not the post PC world, Microsoft has a messaging problem, and more.
+        &lt;b&gt;Hosts&lt;/b&gt;: &lt;a href="http://twitter.com/padresj"&gt;Fr. Robert Ballecer&lt;/a&gt;, &lt;a href="http://thinlinx.com/&gt;Brian Chee&lt;/a&gt;, and &lt;a href="http://www.enterpriseefficiency.com/"&gt;Curtis Franklin&lt;/a&gt;.
+        China loves UPnP, it's not the post PC world, Microsoft has a messaging problem, and more.
+        &lt;b&gt;Guest&lt;/b&gt;: &lt;a href="http://www.infoworld.com/author-bios/oliver-rist"&gt;Oliver Rist&lt;/a&gt;, and Lou Maresca.
+        Download or subscribe to this show at &lt;a href="http://twit.tv/twiet"&gt;twit.tv/twiet&lt;/a&gt;.
+        For additional show notes, visit &lt;a href="http://wiki.twit.tv/wiki/This_Week_in_Enterprise_Tech_28"&gt;the wiki page for this episode&lt;/a&gt;.
+        Thanks to &lt;a href="http://cachefly.com"&gt;Cachefly&lt;/a&gt; for the bandwidth for this show.
+        Running time: 1:10:38
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:10:38</itunes:duration>
+      <link>http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0028/twiet0028_h264m_1280x720_1872.mp4</link>
+      <enclosure url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0028/twiet0028_h264m_1280x720_1872.mp4" length="1131724399" type="video/mp4" />
+      <media:content url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0028/twiet0028_h264m_1280x720_1872.mp4" medium="video" type="video/mp4" filesize="1131724399" />
+    </item>
+    <item>
+      <title>This Week in Enterprise Tech 27: AUP There it is</title>
+      <description><![CDATA[<p><img src="http://feeds.twit.tv/coverart/twiet144videohd.jpg" align=right hspace=20 vspace=20 border=0 title="This Week in Enterprise Tech"/></p><p><b>Hosts</b>: <a href="http://twitter.com/padresj">Fr. Robert Ballecer</a>, <a href="http://www.infoworld.com/author-bios/oliver-rist">Oliver Rist</a>, and <a href="http://www.enterpriseefficiency.com/">Curtis Franklin</a>.</p><p>Cisco calls it quits, warrantless cloud searches, acceptable use policy, and more.</p><p><b>Guest</b>: <a href="http://www.sciencelogic.com/">Evan Brown</a>.</p><p><a href="http://m.thetechstop.net/aup.pdf">TWiET Homework: AUP</a></p><p>Download or subscribe to this show at <a href="http://twit.tv/twiet">twit.tv/twiet</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/This_Week_in_Enterprise_Tech_27">the wiki page for this episode</a>.</p><p>Thanks to <a href="http://cachefly.com">Cachefly</a> for the bandwidth for this show.</p><p><b>Running time:</b>: 1:15:10</p>]]></description>
+      <author>leo@leoville.com (Leo Laporte)</author>
+      <pubDate>Tue, 29 Jan 2013 05:25:52 -0000</pubDate>
+      <category>Gadgets</category>
+      <category>Tech News</category>
+      <comments>http://twit.tv/twiet/27</comments>
+      <guid isPermaLink="false">d5b143e5-c9b7-4c60-a653-f09c428888bc</guid>
+      <itunes:author>TWiT</itunes:author>
+      <itunes:subtitle>Cisco calls it quits, warrantless cloud searches, acceptable use policy, and more.  </itunes:subtitle>
+      <itunes:summary>
+        Cisco calls it quits, warrantless cloud searches, acceptable use policy, and more.
+        Hosts : Fr. Robert Ballecer, Oliver Rist, and Curtis Franklin.
+        Cisco calls it quits, warrantless cloud searches, acceptable use policy, and more.
+        Guest : Evan Brown.
+        TWiET Homework: AUP
+        Download or subscribe to this show at twit.tv/twiet.
+        For additional show notes, visit the wiki page for this episode.
+        Thanks to Cachefly for the bandwidth for this show.
+        Running time: 1:15:10
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:15:10</itunes:duration>
+      <link>http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0027/twiet0027_h264m_1280x720_1872.mp4</link>
+      <enclosure url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0027/twiet0027_h264m_1280x720_1872.mp4" length="1202984501" type="video/mp4" />
+      <media:content url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0027/twiet0027_h264m_1280x720_1872.mp4" medium="video" type="video/mp4" filesize="1202984501" />
+    </item>
+    <item>
+      <title>This Week in Enterprise Tech 26: Seriously Good POS</title>
+      <description><![CDATA[<p><img src="http://feeds.twit.tv/coverart/twiet144videohd.jpg" align=right hspace=20 vspace=20 border=0 title="This Week in Enterprise Tech"/></p><p><b>Hosts</b>: <a href="http://twitter.com/padresj">Fr. Robert Ballecer</a>, <a href="http://www.ancl.hawaii.edu/vision.htm">Brian Chee</a>, and <a href="http://www.enterpriseefficiency.com/">Curtis Franklin</a>.</p><p>Big data goes bad, life is a POS, network monitoring, and more.</p><p><b>Guest</b>: <a href="http://www.sciencelogic.com/">David Link</a>.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twiet">twit.tv/twiet</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/This_Week_in_Enterprise_Tech_26">the wiki page for this episode</a>.</p><p>Thanks to <a href="http://cachefly.com">Cachefly</a> for the bandwidth for this show.</p><p><b>Running time:</b>: 1:12:31</p>]]></description>
+      <author>leo@leoville.com (Leo Laporte)</author>
+      <pubDate>Tue, 22 Jan 2013 20:00:43 -0000</pubDate>
+      <category>Gadgets</category>
+      <category>Tech News</category>
+      <comments>http://twit.tv/twiet/26</comments>
+      <guid isPermaLink="false">109acc64-2d65-4757-a5b3-ca35d8e6a697</guid>
+      <itunes:author>TWiT</itunes:author>
+      <itunes:subtitle>Big data goes bad, life is a POS, network monitoring, and more. </itunes:subtitle>
+      <itunes:summary>
+        Big data goes bad, life is a POS, network monitoring, and more.
+        Hosts : Fr. Robert Ballecer, Brian Chee, and Curtis Franklin.
+        Big data goes bad, life is a POS, network monitoring, and more.
+        Guest : David Link.
+        Download or subscribe to this show at twit.tv/twiet.
+        For additional show notes, visit the wiki page for this episode.
+        Thanks to Cachefly for the bandwidth for this show.
+        Running time: 1:12:31
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:12:31</itunes:duration>
+      <link>http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0026/twiet0026_h264m_1280x720_1872.mp4</link>
+      <enclosure url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0026/twiet0026_h264m_1280x720_1872.mp4" length="1161997133" type="video/mp4" />
+      <media:content url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0026/twiet0026_h264m_1280x720_1872.mp4" medium="video" type="video/mp4" filesize="1161997133" />
+    </item>
+    <item>
+      <title>This Week in Enterprise Tech 25: The Uprising</title>
+      <description><![CDATA[<p><img src="http://feeds.twit.tv/coverart/twiet144videohd.jpg" align=right hspace=20 vspace=20 border=0 title="This Week in Enterprise Tech"/></p><p><b>Hosts</b>: <a href="http://twitter.com/padresj">Fr. Robert Ballecer</a>, <a href="http://www.ancl.hawaii.edu/vision.htm">Brian Chee</a>, and <a href="http://www.enterpriseefficiency.com/">Curtis Franklin</a>.</p><p>CES wrap-up, the Erogotron, Padre's Swag, to sit or to stand, and more.</p><p><b>Guest</b>: <a href="http://www.ergotron.com/">Wendy McCubbin</a>.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twiet">twit.tv/twiet</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/This_Week_in_Enterprise_Tech_25">the wiki page for this episode</a>.</p><p>Thanks to <a href="http://cachefly.com">Cachefly</a> for the bandwidth for this show.</p><p><b>Running time:</b>: 1:01:49</p>]]></description>
+      <author>leo@leoville.com (Leo Laporte)</author>
+      <pubDate>Wed, 16 Jan 2013 20:48:07 -0000</pubDate>
+      <category>Gadgets</category>
+      <category>Tech News</category>
+      <comments>http://twit.tv/twiet/25</comments>
+      <guid isPermaLink="false">aad445b8-8e65-4953-b313-4fa749d2b2b0</guid>
+      <itunes:author>TWiT</itunes:author>
+      <itunes:subtitle>CES wrap-up, the Erogotron, Padre's Swag, to sit or to stand, and more.</itunes:subtitle>
+      <itunes:summary>
+        CES wrap-up, the Erogotron, Padre's Swag, to sit or to stand, and more.
+        Hosts : Fr. Robert Ballecer, Brian Chee, and Curtis Franklin.
+
+        Guest : Wendy McCubbin.
+        Download or subscribe to this show at twit.tv/twiet.
+        For additional show notes, visit the wiki page for this episode.
+        Thanks to Cachefly for the bandwidth for this show.
+        Running time: 1:01:49
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:01:49</itunes:duration>
+      <link>http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0025/twiet0025_h264m_1280x720_1872.mp4</link>
+      <enclosure url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0025/twiet0025_h264m_1280x720_1872.mp4" length="990711833" type="video/mp4" />
+      <media:content url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0025/twiet0025_h264m_1280x720_1872.mp4" medium="video" type="video/mp4" filesize="990711833" />
+    </item>
+    <item>
+      <title>This Week in Enterprise Tech 24: One Ring to Rule Them All</title>
+      <description><![CDATA[<p><img src="http://feeds.twit.tv/coverart/twiet144videohd.jpg" align=right hspace=20 vspace=20 border=0 title="This Week in Enterprise Tech"/></p><p><b>Hosts</b>: <a href="http://twitter.com/padresj">Fr. Robert Ballecer</a>, and <a href="http://www.ancl.hawaii.edu/vision.htm">Brian Chee</a>.</p><p>T-Mobile gets transparent, IBM sheds light on the future, and software defined networks take over the world.</p><p><b>Guest</b>: <a href="http://www.infoworld.com/author-bios/oliver-rist">Oliver Rist</a>, and <a href="http://www.plexxi.com/">Dan Backman</a>.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twiet">twit.tv/twiet</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/This_Week_in_Enterprise_Tech_24">the wiki page for this episode</a>.</p><p>Thanks to <a href="http://cachefly.com">Cachefly</a> for the bandwidth for this show.</p><p><b>Running time:</b>: 0:53:01</p>]]></description>
+      <author>leo@leoville.com (Leo Laporte)</author>
+      <pubDate>Tue, 08 Jan 2013 02:41:27 -0000</pubDate>
+      <category>Gadgets</category>
+      <category>Tech News</category>
+      <comments>http://twit.tv/twiet/24</comments>
+      <guid isPermaLink="false">7550d4f5-ba93-4ba3-a319-9580440ddda9</guid>
+      <itunes:author>TWiT</itunes:author>
+      <itunes:subtitle>T-Mobile gets transparent, IBM sheds light on the future, and software defined networks take over the world.</itunes:subtitle>
+      <itunes:summary>
+        T-Mobile gets transparent, IBM sheds light on the future, and software defined networks take over the world.
+        Hosts : Fr. Robert Ballecer, and Brian Chee.
+
+        Guest : Oliver Rist, and Dan Backman.
+        Download or subscribe to this show at twit.tv/twiet.
+        For additional show notes, visit the wiki page for this episode.
+        Thanks to Cachefly for the bandwidth for this show.
+        Running time: 0:53:01
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>0:53:01</itunes:duration>
+      <link>http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0024/twiet0024_h264m_1280x720_1872.mp4</link>
+      <enclosure url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0024/twiet0024_h264m_1280x720_1872.mp4" length="849552690" type="video/mp4" />
+      <media:content url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0024/twiet0024_h264m_1280x720_1872.mp4" medium="video" type="video/mp4" filesize="849552690" />
+    </item>
+    <item>
+      <title>This Week in Enterprise Tech 23: Questions From the Trolls</title>
+      <description><![CDATA[<p><img src="http://feeds.twit.tv/coverart/twiet144videohd.jpg" align=right hspace=20 vspace=20 border=0 title="This Week in Enterprise Tech"/></p><p><b>Hosts</b>: <a href="http://twitter.com/padresj">Fr. Robert Ballecer</a>, <a href="http://www.ancl.hawaii.edu/vision.htm">Brian Chee</a>, and <a href="http://www.enterpriseefficiency.com/">Curtis Franklin</a>.</p><p>Preferred storage devices, different types of firewalls, and questions from you!</p><p>Download or subscribe to this show at <a href="http://twit.tv/twiet">twit.tv/twiet</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/This_Week_in_Enterprise_Tech_23">the wiki page for this episode</a>.</p><p>Thanks to <a href="http://cachefly.com">Cachefly</a> for the bandwidth for this show.</p><p><b>Running time:</b>: 1:22:27</p>]]></description>
+      <author>leo@leoville.com (Leo Laporte)</author>
+      <pubDate>Tue, 18 Dec 2012 01:51:37 -0000</pubDate>
+      <category>Gadgets</category>
+      <category>Tech News</category>
+      <comments>http://twit.tv/twiet/23</comments>
+      <guid isPermaLink="false">fe26c859-48d3-4cb0-8f04-0f10296bb867</guid>
+      <itunes:author>TWiT</itunes:author>
+      <itunes:subtitle>Preferred storage devices, different types of firewalls, and questions from you!</itunes:subtitle>
+      <itunes:summary>
+        Preferred storage devices, different types of firewalls, and questions from you!
+        Hosts : Fr. Robert Ballecer, Brian Chee, and Curtis Franklin .
+
+        Download or subscribe to this show at twit.tv/twiet .
+        For additional show notes, visit the wiki page for this episode .
+        Thanks to Cachefly for the bandwidth for this show.
+        Running time: 1:22:27
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:22:27</itunes:duration>
+      <link>http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0023/twiet0023_h264m_1280x720_1872.mp4</link>
+      <enclosure url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0023/twiet0023_h264m_1280x720_1872.mp4" length="1321272105" type="video/mp4" />
+      <media:content url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0023/twiet0023_h264m_1280x720_1872.mp4" medium="video" type="video/mp4" filesize="1321272105" />
+    </item>
+    <item>
+      <title>This Week in Enterprise Tech 22: Take the Gun, Leave the Spork</title>
+      <description><![CDATA[<p><img src="http://feeds.twit.tv/coverart/twiet144videohd.jpg" align=right hspace=20 vspace=20 border=0 title="This Week in Enterprise Tech"/></p><p><b>Hosts</b>: <a href="http://twitter.com/padresj">Fr. Robert Ballecer</a>, <a href="http://www.ancl.hawaii.edu/vision.htm">Brian Chee</a>, and <a href="http://www.enterpriseefficiency.com/">Curtis Franklin</a>.</p><p>Gear and tech you'll need for the Apocalypse, flexible solar panels, Nokia 920, and more.</p><p>Guest:<a href="http://www.pcper.com/users/Allyn-Malventano">Allyn Malventano</a> and <a href="http://www.infoworld.com/author-bios/oliver-rist">Oliver Rist</a></p><p>Download or subscribe to this show at <a href="http://twit.tv/twiet">twit.tv/twiet</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/This_Week_in_Enterprise_Tech_22">the wiki page for this episode</a>.</p><p>Thanks to <a href="http://cachefly.com">Cachefly</a> for the bandwidth for this show.</p><p><b>Running time:</b>: 1:08:07</p>]]></description>
+      <author>leo@leoville.com (Leo Laporte)</author>
+      <pubDate>Tue, 11 Dec 2012 05:31:24 -0000</pubDate>
+      <category>Gadgets</category>
+      <category>Tech News</category>
+      <comments>http://twit.tv/twiet/22</comments>
+      <guid isPermaLink="false">48976d01-5038-4dba-bf7b-fd4f0d293f45</guid>
+      <itunes:author>TWiT</itunes:author>
+      <itunes:subtitle>Gear and tech you'll need for the Apocalypse, flexible solar panels, Nokia 920, and more.</itunes:subtitle>
+      <itunes:summary>
+        Gear and tech you'll need for the Apocalypse, flexible solar panels, Nokia 920, and more.
+        Hosts : Fr. Robert Ballecer, Brian Chee, and Curtis Franklin .
+
+        Guest: Allyn Malventano and Oliver Rist
+        Download or subscribe to this show at twit.tv/twiet .
+        For additional show notes, visit the wiki page for this episode .
+        Thanks to Cachefly for the bandwidth for this show.
+        Running time: 1:08:07
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:08:07</itunes:duration>
+      <link>http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0022/twiet0022_h264m_1280x720_1872.mp4</link>
+      <enclosure url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0022/twiet0022_h264m_1280x720_1872.mp4" length="1091683949" type="video/mp4" />
+      <media:content url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0022/twiet0022_h264m_1280x720_1872.mp4" medium="video" type="video/mp4" filesize="1091683949" />
+    </item>
+    <item>
+      <title>This Week in Enterprise Tech 21: The Shocking Truth About DC</title>
+      <description><![CDATA[<p><img src="http://feeds.twit.tv/coverart/twiet144videohd.jpg" align=right hspace=20 vspace=20 border=0 title="This Week in Enterprise Tech"/></p><p><b>Hosts</b>: <a href="http://twitter.com/padresj">Fr. Robert Ballecer</a>, <a href="http://www.ancl.hawaii.edu/vision.htm">Brian Chee</a>, and <a href="http://www.enterpriseefficiency.com/">Curtis Franklin</a>.</p><p>Sandy spikes fiber upgrade, DC in the DC, disaster planning, and more.</p><p>Guest:<a href="http://www.paragon-software.com/">Francisco Gillett</a></p><p>Download or subscribe to this show at <a href="http://twit.tv/twiet">twit.tv/twiet</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/This_Week_in_Enterprise_Tech_21">the wiki page for this episode</a>.</p><p>Thanks to <a href="http://cachefly.com">Cachefly</a> for the bandwidth for this show.</p><p><b>Running time:</b>: 1:13:52</p>]]></description>
+      <author>leo@leoville.com (Leo Laporte)</author>
+      <pubDate>Tue, 04 Dec 2012 06:53:04 -0000</pubDate>
+      <category>Gadgets</category>
+      <category>Tech News</category>
+      <comments>http://twit.tv/twiet/21</comments>
+      <guid isPermaLink="false">1196b1f2-520a-40b8-9cda-3627be24c343</guid>
+      <itunes:author>TWiT</itunes:author>
+      <itunes:subtitle>Sandy spikes fiber upgrade, DC in the DC, disaster planning, and more.</itunes:subtitle>
+      <itunes:summary>
+        Sandy spikes fiber upgrade, DC in the DC, disaster planning, and more.
+        Hosts : Fr. Robert Ballecer, Brian Chee, and Curtis Franklin .
+
+        Guest: Francisco Gillett
+        Download or subscribe to this show at twit.tv/twiet .
+        For additional show notes, visit the wiki page for this episode .
+        Thanks to Cachefly for the bandwidth for this show.
+        Running time: 1:13:52
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:13:52</itunes:duration>
+      <link>http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0021/twiet0021_h264m_1280x720_1872.mp4</link>
+      <enclosure url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0021/twiet0021_h264m_1280x720_1872.mp4" length="1183638843" type="video/mp4" />
+      <media:content url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0021/twiet0021_h264m_1280x720_1872.mp4" medium="video" type="video/mp4" filesize="1183638843" />
+    </item>
+    <item>
+      <title>This Week in Enterprise Tech 20: Poo Over IP</title>
+      <description><![CDATA[<p><img src="http://feeds.twit.tv/coverart/twiet144videohd.jpg" align=right hspace=20 vspace=20 border=0 title="This Week in Enterprise Tech"/></p><p><b>Hosts</b>: <a href="http://twitter.com/padresj">Fr. Robert Ballecer</a>, <a href="http://allaboutmicrosoft.com">Mary Jo Foley</a>, <a href="http://www.ancl.hawaii.edu/vision.htm">Brian Chee</a>, and <a href="http://www.enterpriseefficiency.com/">Curtis Franklin</a>.</p><p>Poo powered data center, augmented reality, Windows 8 gadgets, and more.</p><p>Download or subscribe to this show at <a href="http://twit.tv/twiet">twit.tv/twiet</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/This_Week_in_Enterprise_Tech_20">the wiki page for this episode</a>.</p><p>Thanks to <a href="http://cachefly.com">Cachefly</a> for the bandwidth for this show.</p><p><b>Running time:</b>: 1:16:48</p>]]></description>
+      <author>leo@leoville.com (Leo Laporte)</author>
+      <pubDate>Tue, 27 Nov 2012 02:20:07 -0000</pubDate>
+      <category>Gadgets</category>
+      <category>Tech News</category>
+      <comments>http://twit.tv/twiet/20</comments>
+      <guid isPermaLink="false">f5abc017-a2f3-4dc5-af79-6ecf1171f33c</guid>
+      <itunes:author>TWiT</itunes:author>
+      <itunes:subtitle>Poo powered data center, augmented reality, Windows 8 gadgets, and more.</itunes:subtitle>
+      <itunes:summary>
+        Poo powered data center, augmented reality, Windows 8 gadgets, and more.
+        Hosts : Fr. Robert Ballecer, Mary Jo Foley, Brian Chee, and Curtis Franklin .
+
+        Download or subscribe to this show at twit.tv/twiet .
+        For additional show notes, visit the wiki page for this episode .
+        Thanks to Cachefly for the bandwidth for this show.
+        Running time: 1:16:48
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:16:48</itunes:duration>
+      <link>http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0020/twiet0020_h264m_1280x720_1872.mp4</link>
+      <enclosure url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0020/twiet0020_h264m_1280x720_1872.mp4" length="1230709878" type="video/mp4" />
+      <media:content url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0020/twiet0020_h264m_1280x720_1872.mp4" medium="video" type="video/mp4" filesize="1230709878" />
+    </item>
+    <item>
+      <title>This Week in Enterprise Tech 19: Have You Been to Kansas</title>
+      <description><![CDATA[<p><img src="http://feeds.twit.tv/coverart/twiet144videohd.jpg" align=right hspace=20 vspace=20 border=0 title="This Week in Enterprise Tech"/></p><p><b>Hosts</b>: <a href="http://twitter.com/padresj">Fr. Robert Ballecer</a>, <a href="http://www.ancl.hawaii.edu/vision.htm">Brian Chee</a>, and <a href="http://www.enterpriseefficiency.com/">Curtis Franklin</a>.</p><p>Sinofsky is out, Google Fiber rolling out, Big Data, and more.</p><p>Guest: <a href="http://www.infoworld.com/author-bios/oliver-rist">Oliver Rist</a> and <a href="https://twitter.com/andrewbrust">Andrew Brust</a></p><p>Download or subscribe to this show at <a href="http://twit.tv/twiet">twit.tv/twiet</a>.</p><p>For additional show notes, visit <a href="http://wiki.twit.tv/wiki/This_Week_in_Enterprise_Tech_19">the wiki page for this episode</a>.</p><p>Thanks to <a href="http://cachefly.com">Cachefly</a> for the bandwidth for this show.</p><p><b>Running time:</b>: 1:19:19</p>]]></description>
+      <author>leo@leoville.com (Leo Laporte)</author>
+      <pubDate>Tue, 20 Nov 2012 01:51:26 -0000</pubDate>
+      <category>Gadgets</category>
+      <category>Tech News</category>
+      <comments>http://twit.tv/twiet/19</comments>
+      <guid isPermaLink="false">a1a7ed6c-cf3d-4767-92b3-161167dacc07</guid>
+      <itunes:author>TWiT</itunes:author>
+      <itunes:subtitle>Sinofsky is out, Google Fiber rolling out, Big Data, and more.</itunes:subtitle>
+      <itunes:summary>
+        Sinofsky is out, Google Fiber rolling out, Big Data, and more.
+        Hosts : Fr. Robert Ballecer, Brian Chee, and Curtis Franklin .
+
+
+
+        Guest: Oliver Rist and Andrew Brust
+
+        Download or subscribe to this show at twit.tv/twiet .
+
+        For additional show notes, visit the wiki page for this episode .
+
+        Thanks to Cachefly for the bandwidth for this show.
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:19:19</itunes:duration>
+      <link>http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0019/twiet0019_h264m_1280x720_1872.mp4</link>
+      <enclosure url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0019/twiet0019_h264m_1280x720_1872.mp4" length="38292652" type="video/mp4" />
+      <media:content url="http://dts.podtrac.com/redirect.mp4/twit.cachefly.net/video/twiet/twiet0019/twiet0019_h264m_1280x720_1872.mp4" medium="video" type="video/mp4" />
+    </item>
+  </channel>
+</rss>
