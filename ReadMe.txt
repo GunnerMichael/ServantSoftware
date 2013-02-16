@@ -1,3 +1,15 @@
+ServantSoftware.Toolkit
+
+Toolkit classes for Windows, Windows Phone and Windows Store.
+
+EmailAddressValidator - class for validating email addresses
+
+FeedWrapper - class for handling RSS feeds
+
+MediaFeedWrapper - class for handling RSS feeds that contain media enclosures
+
+
+
 License
 
 The MIT License (MIT) Copyright (c) 2012 Michael Butler
