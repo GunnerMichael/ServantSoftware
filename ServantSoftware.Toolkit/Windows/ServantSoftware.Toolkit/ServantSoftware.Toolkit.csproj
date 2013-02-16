@@ -55,6 +55,7 @@
     <Compile Include="Rss\FeedWrapper.cs" />
     <Compile Include="Rss\MediaEnclosureModel.cs" />
     <Compile Include="Rss\MediaFeedWrapper.cs" />
+    <Compile Include="TextFileLogger.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
