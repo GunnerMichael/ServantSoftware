@@ -174,6 +174,5 @@ namespace ServantSoftware.Toolkit.Rss
                 return this.link;
             }
         }
-
     }
 }
