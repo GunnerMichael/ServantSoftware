@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DateRange.cs" />
     <Compile Include="EmailAddressValidator.cs" />
     <Compile Include="Contracts\IEmailAddressValidator.cs" />
     <Compile Include="Contracts\ILogger.cs" />
