@@ -8,6 +8,8 @@ FeedWrapper - class for handling RSS feeds
 
 MediaFeedWrapper - class for handling RSS feeds that contain media enclosures
 
+DateRange - class for wrapping various date ranges.
+
 
 
 License
