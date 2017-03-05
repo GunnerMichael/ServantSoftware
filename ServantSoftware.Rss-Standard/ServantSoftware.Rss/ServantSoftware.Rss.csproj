@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>ServantSoftware</Authors>
+    <Company>ServantSoftware</Company>
+    <Product>ServantSoftware Toolkit RSS</Product>
+    <Description>RSS toolkit classes</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ServantSoftware.Toolkit-Standard\ServantSoftware.Toolkit-Standard\ServantSoftware.Toolkit-Standard.csproj" />
+  </ItemGroup>
+
+</Project>
